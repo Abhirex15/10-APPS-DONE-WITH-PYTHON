@@ -1,0 +1,162 @@
+1538581372857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile.VCgBPZgGkRWZ"
+JavaScript error: 0y1llezjftx.cfg, line 2: ReferenceError: Components is not defined
+1538581379204	Marionette	INFO	Listening on port 61577
+1538581379535	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538581379614	Marionette	DEBUG	[6442450945] Frame script loaded
+1538581379616	Marionette	DEBUG	[6442450945] Frame script registered
+1538581379635	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538581382009	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538581383784	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=SUNPHARMA&illiquid=0&smeFlag=0&itpFlag=0
+JavaScript error: https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=SUNPHARMA&illiquid=0&smeFlag=0&itpFlag=0, line 1444: ReferenceError: makeReadonly is not defined
+1538581384190	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=SUNPHARMA&illiquid=0&smeFlag=0&itpFlag=0
+JavaScript error: https://www.nseindia.com/common/js/js.js, line 84: ReferenceError: getTopGainersData is not defined
+JavaScript error: https://www.nseindia.com/common/js/js.js, line 84: ReferenceError: getTopGainersData is not defined
+JavaScript error: https://www.nseindia.com/common/js/js.js, line 84: ReferenceError: getTopGainersData is not defined
+JavaScript error: https://www.nseindia.com/common/js/js.js, line 84: ReferenceError: getTopGainersData is not defined
+[Child 17416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/[Child 5892,chrome/common/ip Chrome_ChildThread] WARNING: pipe ec_channel_win.cc, line 346r
+ror: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 14728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1538581674302	Marionette	INFO	Stopped listening on port 61577
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+UNPHARMA&illiquid=0&smeFlag=0&itpFlag=0, line 1444: ReferenceError: makeReadonly is not defined
+1538581485157	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=SUNPHARMA&illiquid=0&smeFlag=0&itpFlag=0
+[Child 9188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 11296, Chro[Cme_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch[Parent 17420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3044, Chrome_Chi1538581516469	Marionette	INFO	Stopped listening on port 61654
+[GPU 18088, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538581648764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile.rJqSRrMakVOb"
+JavaScript error: 0y1llezjftx.cfg, line 2: ReferenceError: Components is not defined
+1538581655016	Marionette	INFO	Listening on port 61748
+1538581655509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538581656215	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+observe()@resource://gre/modules/AsyncShutdown.jsm:541
+[Parent 4304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1538581659682	Marionette	DEBUG	[6442450945] Frame script loaded
+1538581659684	Marionette	ERROR	[6442450945] No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 457: TypeError: reply[0] is undefined
+[Parent 4304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1538581660649	Marionette	INFO	Stopped listening on port 61748
+[GPU 17548, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538581672594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile.0bJ8XhnPgfcB"
+JavaScript error: 0y1llezjftx.cfg, line 2: ReferenceError: Components is not defined
+1538581678439	Marionette	INFO	Listening on port 61780
+1538581678685	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538581678906	Marionette	DEBUG	[4294967297] Frame script loaded
+1538581678917	Marionette	DEBUG	[4294967297] Frame script registered
+1538581679035	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1538581680642	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1538581681684	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=SUNPHARMA&illiquid=0&smeFlag=0&itpFlag=0
+JavaScript error: https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=SUNPHARMA&illiquid=0&smeFlag=0&itpFlag=0, line 1444: ReferenceError: makeReadonly is not defined
+1538581682124	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=SUNPHARMA&illiquid=0&smeFlag=0&itpFlag=0
+JavaScript error: https://www.nseindia.com/common/js/js.js, line 84: ReferenceError: getTopGainersData is not defined
+JavaScript error: https://www.nseindia.com/common/js/js.js, line 84: ReferenceError: getTopGainersData is not defined
+JavaScript error: https://www.nseindia.com/common/js/js.js, line 84: ReferenceError: getTopGainersData is not defined
+JavaScript error: https://www.nseindia.com/common/js/js.js, line 84: ReferenceError: getTopGainersData is not defined
+JavaScript error: https://www.nseindia.com/common/js/js.js, line 84: ReferenceError: getTopGainersData is not defined
+JavaScript error: https://www.nseindia.com/common/js/js.js, line 84: ReferenceError: getTopGainersData is not defined
+JavaScript error: https://www.nseindia.com/common/js/js.js, line 84: ReferenceError: getTopGainersData is not defined
+JavaScript error: https://www.nseindia.com/common/js/js.js, line 84: ReferenceError: getTopGainersData is not defined
+JavaScript error: https://www.nseindia.com/common/js/js.js, line 84: ReferenceError: getTopGainersData is not defined
+[Child 10928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 13896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi1538582243178	Marionette	INFO	Stopped listening on port 61780
+[GPU 1328, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538582297319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile.0FkHNPd7Kfmn"
+JavaScript error: 0y1llezjftx.cfg, line 2: ReferenceError: Components is not defined
+1538582302882	Marionette	INFO	Listening on port 62354
+1538582302903	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538582302988	Marionette	DEBUG	[6442450945] Frame script loaded
+1538582302991	Marionette	DEBUG	[6442450945] Frame script registered
+1538582303051	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538582303785	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538582304966	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=SUNPHARMA&illiquid=0&smeFlag=0&itpFlag=0
+JavaScript error: https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=SUNPHARMA&illiquid=0&smeFlag=0&itpFlag=0, line 1444: ReferenceError: makeReadonly is not defined
+1538582305318	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=SUNPHARMA&illiquid=0&smeFlag=0&itpFlag=0
+JavaScript error: https://www.nseindia.com/common/js/js.js, line 84: ReferenceError: getTopGainersData is not defined
+[Child 10020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Child 17768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 17848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538582409177	Marionette	INFO	Stopped listening on port 62354
+[GPU 14104, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ceived DOM event pagehide for about:blank
+1538582340951	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=SUNPHARMA&illiquid=0&smeFlag=0&itpFlag=0
+JavaScript error: https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=SUNPHARMA&illiquid=0&smeFlag=0&itpFlag=0, line 1444: ReferenceError: makeReadonly is not defined
+1538582341316	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=SUNPHARMA&illiquid=0&smeFlag=0&itpFlag=0
+JavaScript error: https://www.nseindia.com/common/js/js.js, line 84: ReferenceError: getTopGainersData is not defined
+[Parent 2952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 77041538582407877	Marionette	INFO	Stopped listening on port 62411
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539006225619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile.2KCPdTQ7sGCi"
+JavaScript error: 0y1llezjftx.cfg, line 2: ReferenceError: Components is not defined
+1539006236191	Marionette	INFO	Listening on port 59871
+1539006237108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539006237165	Marionette	DEBUG	[4294967297] Frame script loaded
+1539006237167	Marionette	DEBUG	[4294967297] Frame script registered
+1539006237190	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539006240650	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539006244712	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=SUNPHARMA&illiquid=0&smeFlag=0&itpFlag=0
+JavaScript error: https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=SUNPHARMA&illiquid=0&smeFlag=0&itpFlag=0, line 1444: ReferenceError: makeReadonly is not defined
+1539006249848	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=SUNPHARMA&illiquid=0&smeFlag=0&itpFlag=0
+[Child 24112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc[,C hliilnde 346 25652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bui
+ld/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 26200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24341539006271846	Marionette	INFO	Stopped listening on port 59871
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
